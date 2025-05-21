@@ -5,6 +5,11 @@ extractor = CityExtractor()
 # Test some examples
 examples = [
     "Mogi das Cruzes - SP",
+    "EU QUERO ALUGAR EM SÃO PAULO, GUARULHOS",
+    "Procuro imóvel no Rio de Janeiro, Copacabana",
+    "Apartamento em Belo Horizonte, Savassi",
+    "Casa em São Paulo capital",
+    "Quero morar em Porto Alegre, bairro Moinhos",
     "Mogi das Cruzes / São Paulo",
     "Mogi das Cruzes / SP",
     "Mogi - SP",
